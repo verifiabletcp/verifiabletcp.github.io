@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Verfiable TCP
+# Verifiable TCP
 
 The Transmission Control Protocol (TCP) is a fundamental Internet protocol responsible for transmitting data 
 in daily Internet activities, such as checking emails, reading news, watching videos, messaging friends, making online orders, 
