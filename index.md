@@ -14,15 +14,27 @@ of them have potentially severe impacts on the performance and stability of the 
 The goal of this project is to design and develop a new CCAI design and implementation methodology, called verifiable CCAI, which systematically enables CCAI developers to design and implement CCAIs with not only efficient performance but also verifiable correctness. The proposed verifiable CCAI methodology is inspired by the scalability of the flow modeling methods currently used by the networking community for performance evaluation but is tailored to the software verification methods proposed by the software engineering community.
 
 
-# Team
+# Contributors
 
 ## Prof. Lisong Xu
 
 ## Prof. Hamid Bagheri
 
-## PhD Student: Minh Vu
+## PhD Students
 
-## PhD Student: Clay Stevens
+- Minh Vu
+- Clay Stevens
+- Fahmida Afrin
+- Md Rashedul Hasan
+
+## MS Students
+
+- Mingrui Zhang
+
+## Undergraduate Students 
+
+- Uyen Tran
+- Jessica Chen
 
 # Acknowledgement
 
