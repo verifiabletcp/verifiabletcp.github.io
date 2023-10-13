@@ -13,6 +13,9 @@ of them have potentially severe impacts on the performance and stability of the 
 
 The goal of this project is to design and develop a new CCAI design and implementation methodology, called verifiable CCAI, which systematically enables CCAI developers to design and implement CCAIs with not only efficient performance but also verifiable correctness. The proposed verifiable CCAI methodology is inspired by the scalability of the flow modeling methods currently used by the networking community for performance evaluation but is tailored to the software verification methods proposed by the software engineering community.
 
+# Documents
+
+- Mingrui Zhang, "Experimental Study of Linux Flight Size Estimation", Master Thesis, University of Nebraska-Lincoln, July 2023
 
 # Contributors
 
