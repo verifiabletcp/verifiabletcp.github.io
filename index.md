@@ -22,6 +22,7 @@ The goal of this project is to design and develop a new CCAI design and implemen
 
 ## PhD Students
 
+- Mingrui Zhang
 - Minh Vu
 - Clay Stevens
 - Fahmida Afrin
@@ -35,6 +36,10 @@ The goal of this project is to design and develop a new CCAI design and implemen
 
 - Uyen Tran
 - Jessica Chen
+- Patrick Murphy
+- Khoa Tran
+- Robert Sears
+- Saicharith Vaitla
 
 # Acknowledgement
 
