@@ -15,6 +15,7 @@ The goal of this project is to design and develop a new CCAI design and implemen
 
 # Documents
 
+- Ming Vu, "Network Protocol Implementation Testing and Verification under Packet Dynamics", PhD Dissertation, University of Nebraska-Lincoln, November 2021
 - Mingrui Zhang, "Experimental Study of Linux Flight Size Estimation", Master Thesis, University of Nebraska-Lincoln, July 2023
 
 # Contributors
