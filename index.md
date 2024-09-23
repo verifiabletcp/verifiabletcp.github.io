@@ -24,7 +24,7 @@ The goal of this project is to design and develop a new CCAI design and implemen
 
 # Code
 
-ACK-Scalable Method (ASM) for checking the multi-ACK properties of Linux TCP : [code repository with instructions](https://github.com/verifiabletcp/asm)
+- ACK-Scalable Method (ASM) for checking the multi-ACK properties of Linux TCP : [code repository with instructions](https://github.com/verifiabletcp/asm)
 
 
 # Contributors
