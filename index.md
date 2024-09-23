@@ -15,14 +15,14 @@ The goal of this project is to design and develop a new CCAI design and implemen
 
 # Documents
 
--Ming Vu, Hamid Bagheri, Lisong Xu, Wei Sun, Mingrui Zhang, "Scalable Verification of Multi-ACK Properties in Loss-Based Congestion Control Implementations", [IEEE International Conference on Network Protocols (ICNP)](https://icnp24.cs.ucr.edu/index.html), October 2024 [paper][[code](https://github.com/verifiabletcp/asm)]
+- Ming Vu, Hamid Bagheri, Lisong Xu, Wei Sun, Mingrui Zhang, "Scalable Verification of Multi-ACK Properties in Loss-Based Congestion Control Implementations", [IEEE International Conference on Network Protocols (ICNP)](https://icnp24.cs.ucr.edu/index.html), October 2024 [paper][[code](https://github.com/verifiabletcp/asm)]
 
 - Ming Vu, "Network Protocol Implementation Testing and Verification under Packet Dynamics", PhD Dissertation, University of Nebraska-Lincoln, November 2021
 
 - Mingrui Zhang, "Experimental Study of Linux Flight Size Estimation", Master Thesis, University of Nebraska-Lincoln, July 2023
 
 
-# Code and Tutorials
+# Code
 
 ACK-Scalable Method (ASM) for checking the multi-ACK properties of Linux TCP : [code repository with instructions](https://github.com/verifiabletcp/asm)
 
