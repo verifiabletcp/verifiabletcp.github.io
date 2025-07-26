@@ -19,11 +19,11 @@ The goal of this project is to design and develop a new CCAI design and implemen
 
 - Mingrui Zhang, Phuong Ha, Hamid Bagheri, and Lisong Xu, "Accuracy Evaluation of TCP FlightSize Estimation: Analytical and Experimental", International Conference on Computing, Networking and Communications (ICNC), Honolulu, Hawaii, February 2025
 
-- Ming Vu, Hamid Bagheri, Lisong Xu, Wei Sun, Mingrui Zhang, "Scalable Verification of Multi-ACK Properties in Loss-Based Congestion Control Implementations", [IEEE International Conference on Network Protocols (ICNP)](https://icnp24.cs.ucr.edu/index.html), October 2024 [paper][[code](https://github.com/verifiabletcp/asm)]
+- Minh Vu, Hamid Bagheri, Lisong Xu, Wei Sun, Mingrui Zhang, "Scalable Verification of Multi-ACK Properties in Loss-Based Congestion Control Implementations", [IEEE International Conference on Network Protocols (ICNP)](https://icnp24.cs.ucr.edu/index.html), October 2024 [paper][[code](https://github.com/verifiabletcp/asm)]
 
 - Mingrui Zhang, "Experimental Study of Linux Flight Size Estimation", Master Thesis, University of Nebraska-Lincoln, July 2023
 
-- Ming Vu, "Network Protocol Implementation Testing and Verification under Packet Dynamics", PhD Dissertation, University of Nebraska-Lincoln, November 2021
+- Minh Vu, "Network Protocol Implementation Testing and Verification under Packet Dynamics", PhD Dissertation, University of Nebraska-Lincoln, November 2021
 
 # Code
 
